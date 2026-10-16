@@ -1,5 +1,7 @@
 # Childcare-Prices
-## Storytelling with Data - based on Cole Nussbaumer Knaflic's guidance
+## Storytelling with Data - based on Cole Nussbaumer Knaflic's book
+
+Jupyter Notebook, Childcare.ipynb, included can be run to view entire process of EDA + visualizations.
 
 Reviewing childcare prices with the National Database of Childcare Prices dataset. 
 
