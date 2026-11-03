@@ -7,6 +7,8 @@ Reviewing childcare prices with the National Database of Childcare Prices datase
 
 Contains Exploratory Data Analysis (EDA) and visualizations.
 
+___
+
 **Data changes:** 
 
 - dropping rows that were missing values
@@ -14,6 +16,8 @@ Contains Exploratory Data Analysis (EDA) and visualizations.
 In the early years of tracking, 2008, less than half, 45.3% of surveyed counties reported a complete profile across every single age bracket. By 2016 it peaked to 84.1% complete before stabilizing in the mid to high 70s for 2017 and 2018.
 
 Presentation focused with three different visualizations to communicate findings to viewers
+
+___
 
 **Target Audiences**
 
